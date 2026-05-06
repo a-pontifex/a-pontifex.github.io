@@ -1,0 +1,4 @@
+baseURL = 'https://a-pontifex.github.io/'
+locale = 'fr-FR'
+title = 'Horace Leung'
+theme = 'ananke'
